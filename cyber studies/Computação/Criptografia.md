@@ -7,8 +7,6 @@ A necessidade da criptografia para assegurar arquivos, mensagens, dados, sistema
 A Criptografia Simétrica é uma maneira simples ao codificar um dado é usada uma única chave para decodificar este dado. Não é muito recomendado pelo fato de que se a chave for descoberta/encontrada o dado não está mais seguro. Também, não é bom usar uma única chave para vários dados.
 
 A chave decodificadora é chamada de chave pública.
-### Assimétrica
-
 
 ### Hash
 

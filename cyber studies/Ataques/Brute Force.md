@@ -15,8 +15,6 @@ Um ataque de força bruta tenta obter acesso a uma conta ou recurso testando sis
 
 ---
 
-## +Detalhes
-
 ### Password Spraying
 
 Definição: técnica onde o atacante testa *uma senha comum* (ex.: `Summer2023!`) contra muitos usuários para não gerar bloqueios por tentativas repetidas em uma mesma conta. Funciona porque muitas contas usam senhas previsíveis. 

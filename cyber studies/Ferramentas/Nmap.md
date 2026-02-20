@@ -68,5 +68,4 @@ nmap 192.168.xxx.xxx -T 4
 Dependendo da combinação de comandos que for feita em um scan e principalmente se este scan for feito para toda a rede, pode ser que demande um grande tempo de execução. Se chegar a bater 10 minutos de espera, termine a execução e faça outro scan. Para verificar o tempo de execução use CTRL + T.
 
 
-
 ---

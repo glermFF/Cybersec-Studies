@@ -9,6 +9,7 @@ Recentemente no Brasil ocorreram uma onda de golpes via whatsapp com um link red
 ## Formas de ataque
 
 Breve lista envolvendo os principais métodos de ataques;
+
 #### Phishing
 
 - O mais conhecido, o phishing é se não o golpe mais antigo existente na era da internet. O principal meio onde se efetua o golpe é por meio dos emails, se passando por organizações e empresas que a vítima possui uma conta vinculada apresentando uma promoção, aviso ou notícia que gere interesse e a redirecione a um site falso.
