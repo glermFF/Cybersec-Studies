@@ -1,1 +1,0 @@
-Como forma de praticar sem comprometer o sistemas e aplicações de outras pessoas, organizações ou empresas na internet a fora, podemos implementar um ambiente próprio e aplicar os conhecimentos da cibersegurança em nosso "playground" local. Mostrarei aqui o guia passo a passo da implementação do nosso ambiente.
