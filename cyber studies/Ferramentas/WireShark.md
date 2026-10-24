@@ -1,5 +1,0 @@
-### Sobre
-
-
-
-### Modos de operação
